@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-project(dataframe-boilerplate)
+project(dataframe-playground)
 
 set(dataframe_ROOT "P:/Downloads/cpp-libraries/DataFrame-V-1.5.0/build/DataFrame")
 
